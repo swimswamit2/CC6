@@ -1,13 +1,4 @@
 {
-  "block.lever.click": {
-    "sounds": [
-      {
-        "name": "custom/lever-click",
-        "volume": 1.0
-      }
-    ],
-    "replace": true
-  },
   "custom.wrappedinmymemory": {
     "sounds": [
       {
@@ -16,5 +7,4 @@
         "volume": 1.0
       }
     ]
-  }
 }
