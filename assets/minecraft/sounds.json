@@ -3,6 +3,7 @@
         "sounds": [
             {
                 "name": "custom/wrappedinmymemory",
+                "stream": true,
                 "volume": 1.00
             }
         ],
@@ -10,6 +11,7 @@
     }
 
 }
+
 
 
 
